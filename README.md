@@ -1,6 +1,6 @@
 # near_me
 
-This App takes your current current location and then shows you details of nearby hospitals, gyms, schools, pharmacies etc and also provides navigation to that perticular location.
+This App takes your current current location and then shows you details of nearby hospitals, gyms, schools, pharmacies etc and also provides navigation to that particular location.
 
 ## Getting Started
 
